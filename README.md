@@ -2,7 +2,7 @@
 
 # Hi, I'm solarspiker 👋
 
-**Lead Appian Developer | IT Certifications Enthusiast | Low-Code Advocate**
+**Lead Appian Developer | Hyper Learner | Data Scientist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-egolfer-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/egolfer/)
 
